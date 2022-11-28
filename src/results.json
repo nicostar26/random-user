@@ -1,0 +1,58 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Rodney",
+            "last": "Chavez"
+        },
+        "location": {
+            "street": {
+                "number": 5179,
+                "name": "Valwood Pkwy"
+            },
+            "city": "Albury",
+            "state": "Queensland",
+            "country": "Australia",
+            "postcode": 697,
+            "coordinates": {
+                "latitude": "-83.4677",
+                "longitude": "-97.8796"
+            },
+            "timezone": {
+                "offset": "-3:00",
+                "description": "Brazil, Buenos Aires, Georgetown"
+            }
+        },
+        "email": "rodney.chavez@example.com",
+        "login": {
+            "uuid": "d258d075-2a55-49b3-9062-d48ece3b32af",
+            "username": "happydog878",
+            "password": "303030",
+            "salt": "jNxuMTnv",
+            "md5": "1fae6611562272ea6bb6c164c4726f3a",
+            "sha1": "ac8fc78e0fc44678e94f084763a46c2a9ee8b98e",
+            "sha256": "55e6fec94464e3127614a9351f1223a81ee13cfb3b7d1f8d9c66a357ac875e1c"
+        },
+        "dob": {
+            "date": "1961-07-11T18:05:29.050Z",
+            "age": 61
+        },
+        "registered": {
+            "date": "2013-04-01T14:22:10.973Z",
+            "age": 9
+        },
+        "phone": "07-8172-1698",
+        "cell": "0479-109-864",
+        "id": {
+            "name": "TFN",
+            "value": "981361263"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/93.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+        },
+        "nat": "AU"
+    }
+]
